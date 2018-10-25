@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fieatech-214804",
+  "private_key_id": "4bef059d8b9100156efe066ecf5b582d58882338",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSmgxfY2BuaSi7\n0f5IFQe9c9Ju9U91oTIPvr4ytW51nwU1zG2A352Tm6my6rvkChTXlVNfOQv/ZWBN\nNoulwkad/onCB4OeNJ+YElygjZ7QLlsgEq47WEi8ai9dfnGIuUkrW3b0iLHg0hJ7\nZpIC2oHBSEBSMDUlxk+M5ija0GOhYnFUCb/kjhsNiBvxkFQVvjpHkRPDm8xQUv7U\nqQZv379YI2W9eQjiS3TCG49CQWcAkgA8qhiWjB24oP70AbNBOpN9K/hXwpWxSVAv\n8pfWM6p0pyu+3UNZJvlcL8pPUZrgqVoWye0k+06EBK4L6X/F8NVmpsdbjqZ/bw3/\nPacXWqgrAgMBAAECggEACt8Zo8k+0XFC8Aq2jKnilQ4NwOS4K8T0bW57tE74Dgjo\n3gB27mOmz9dvUjFOFa8ZtJMCR8F3Pk1KQu+Uk4pAql7B4H2mKQlF/IUAEXfvGwkV\nAN/hw8zcN/y33nsN+FGlN23k+GVaq41oiXYlxchmburoui+RAWgfZhd7WB60BLen\nXr1X4IByj6DUuG2HQU/jj90myg3yom+SpnNwHYFnF14FeIV3fKTqvA/cZ9HIx5l/\nvxJXWJnRRfHsA/o8+4NawbAsRmMxwPMLltNB2sxlpRvo7AjUA4nhJCk0EYcyzuFx\nKEUjgYr+mDS4w3EuXoi51zP6BfuclgYDkwCxW0LIoQKBgQDN1HakY4gp2rWuAiCR\nx+luVpI4Dw4Bw4Xt+5Ir6Tek4zuF2sZDC8jwjYzXu/zuvDmg/azdnrU7O0EuSJxn\n1AVasuKi3QNmX9KBN0XQAxgaGpt87AdsQy5uEeLkIOXVy4Pcz78CBIFDOv1X8qrM\nte5E7mPQHFb8cNDLtV1cEDxflQKBgQC2VdGMIY8oL+d7JKAGobwZR/oVRKIxWef6\naEFHnmLAcoeKaxOxtdSC47kK+nVSDrUdRFt/FG7pPqDRaYnn4lbQcF/GfYOMpott\nvYdzb7/i3dyXBHfdmSMR0d4PH7XrHBYbNkbE2VbZmi8bg/eZKVd03zKtZhxZReUu\nN/PehRv4vwKBgF2Ss4U0gpiUh3feG7Rqr+KrlLnLjlCa9O4mKmOwGM3rSAooVW3x\nk55Ym6kQG4LlK0XXTZlLJ5UP8Sf7dq91IiIDpSjpVTxbX7XCzQgt/+0OH5YBL7a2\nLAt6Mi4IDrTNWtstzuY56hIIZVhwR9nc879+qP3ZhGorV6DkiNbrwqapAoGBAKvb\niY3GF9OuC0WzSK3XhZ5ijCG9tg5ECnWoDFd/vt5bVMuvjzmCA9J253OkjC4StLzo\nMEFANiXcJOIc0qHgYSlHsc45gWNxmpuN93xjiP5BVWh2CrCwZTCnmeCxZ9s5dtCh\nQOTLYaPqQppxsU8Ie2kp8u8i/ndafOAqVs6Wsb2rAoGBAKhvqVkH9jUSPh4hY2gH\nxb2B2C3WRCHKuH6eK0wPmHhPIUEpgBh2mDa/JkiyCm1Gx2fUTTjG7woTlJTJaH5E\nguGpmnyYZ5kyakcF97ABF+snwxxR2t+2DNjKyG74vVEvRcma3JjHIWoarMkgvu/4\n30D4gskk8+lyXCNjtnJj5qUM\n-----END PRIVATE KEY-----\n",
+  "client_email": "deployer@fieatech-214804.iam.gserviceaccount.com",
+  "client_id": "101255634819210855242",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deployer%40fieatech-214804.iam.gserviceaccount.com"
+}
